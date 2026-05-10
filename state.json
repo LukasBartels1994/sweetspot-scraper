@@ -3,7 +3,6 @@
   "seen_keys": [
     "70562|Friday 15 May 2026|1140",
     "70563|Friday 15 May 2026|1080",
-    "70563|Friday 15 May 2026|1140",
     "70564|Friday 15 May 2026|1080",
     "70564|Friday 15 May 2026|1140",
     "70564|Friday 15 May 2026|1200",
@@ -13,9 +12,8 @@
     "70563|Saturday 16 May 2026|1140",
     "70564|Saturday 16 May 2026|1080",
     "70564|Saturday 16 May 2026|1140",
-    "70564|Saturday 16 May 2026|1200",
-    "70564|Sunday 10 May 2026|1200"
+    "70564|Saturday 16 May 2026|1200"
   ],
   "last_weekly_run": "2026-05-07T15:12:37.330676+02:00",
-  "last_monitor_run": "2026-05-10T13:17:01.738112+02:00"
+  "last_monitor_run": "2026-05-10T16:40:54.297229+02:00"
 }
