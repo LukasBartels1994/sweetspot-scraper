@@ -1,11 +1,6 @@
 {
-  "monitoring_active": false,
+  "monitoring_active": true,
   "seen_keys": [
-    "70562|Friday 15 May 2026|1080",
-    "70562|Friday 15 May 2026|1140",
-    "70563|Friday 15 May 2026|1080",
-    "70564|Friday 15 May 2026|1080",
-    "70564|Friday 15 May 2026|1140",
     "70564|Friday 15 May 2026|1200",
     "70562|Saturday 16 May 2026|1080",
     "70562|Saturday 16 May 2026|1140",
@@ -13,9 +8,11 @@
     "70563|Saturday 16 May 2026|1140",
     "70564|Saturday 16 May 2026|1080",
     "70564|Saturday 16 May 2026|1140",
-    "70564|Saturday 16 May 2026|1200"
+    "70564|Saturday 16 May 2026|1200",
+    "70562|Sunday 17 May 2026|1140",
+    "70563|Sunday 17 May 2026|1080",
+    "70563|Sunday 17 May 2026|1140",
+    "70564|Sunday 17 May 2026|1200"
   ],
-  "last_weekly_run": "2026-05-07T15:12:37.330676+02:00",
-  "last_monitor_run": "2026-05-10T20:06:11.619228+02:00",
-  "stopped_at": "2026-05-11T00:31:10.047632+02:00"
+  "last_weekly_run": "2026-05-14T14:12:30.004317+02:00"
 }
