@@ -4,22 +4,11 @@
     "70562|Friday 22 May 2026|1140",
     "70562|Friday 22 May 2026|1200",
     "70563|Friday 22 May 2026|1200",
-    "70562|Saturday 16 May 2026|1080",
-    "70562|Saturday 16 May 2026|1140",
-    "70562|Saturday 16 May 2026|1200",
-    "70563|Saturday 16 May 2026|1080",
-    "70563|Saturday 16 May 2026|1140",
-    "70563|Saturday 16 May 2026|1200",
-    "70564|Saturday 16 May 2026|1080",
-    "70564|Saturday 16 May 2026|1140",
-    "70564|Saturday 16 May 2026|1200",
     "70562|Sunday 17 May 2026|1140",
     "70562|Sunday 17 May 2026|1200",
-    "70563|Sunday 17 May 2026|1080",
-    "70563|Sunday 17 May 2026|1140",
     "70563|Sunday 17 May 2026|1200",
     "70564|Sunday 17 May 2026|1200"
   ],
   "last_weekly_run": "2026-05-14T14:12:30.004317+02:00",
-  "last_monitor_run": "2026-05-16T17:38:22.784670+02:00"
+  "last_monitor_run": "2026-05-16T21:48:22.140065+02:00"
 }
