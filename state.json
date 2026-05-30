@@ -1,6 +1,8 @@
 {
   "monitoring_active": true,
   "seen_keys": [
+    "70563|Friday 5 Jun 2026|1200",
+    "70564|Friday 5 Jun 2026|1200",
     "70562|Saturday 30 May 2026|1080",
     "70562|Saturday 30 May 2026|1200",
     "70563|Saturday 30 May 2026|1140",
@@ -11,5 +13,5 @@
     "70564|Sunday 31 May 2026|1200"
   ],
   "last_weekly_run": "2026-05-28T19:52:19.493765+02:00",
-  "last_monitor_run": "2026-05-29T23:03:29.392559+02:00"
+  "last_monitor_run": "2026-05-30T09:49:57.158619+02:00"
 }
