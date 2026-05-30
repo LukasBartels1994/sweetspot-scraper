@@ -3,11 +3,8 @@
   "seen_keys": [
     "70563|Friday 5 Jun 2026|1200",
     "70564|Friday 5 Jun 2026|1200",
-    "70562|Saturday 30 May 2026|1200",
-    "70563|Saturday 30 May 2026|1140",
-    "70563|Saturday 30 May 2026|1200",
     "70564|Saturday 30 May 2026|1200"
   ],
   "last_weekly_run": "2026-05-28T19:52:19.493765+02:00",
-  "last_monitor_run": "2026-05-30T14:49:58.760995+02:00"
+  "last_monitor_run": "2026-05-30T18:36:12.225656+02:00"
 }
