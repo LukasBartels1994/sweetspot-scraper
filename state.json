@@ -2,8 +2,17 @@
   "monitoring_active": true,
   "seen_keys": [
     "70563|Friday 5 Jun 2026|1200",
-    "70564|Friday 5 Jun 2026|1200"
+    "70564|Friday 5 Jun 2026|1200",
+    "70562|Saturday 6 Jun 2026|1080",
+    "70562|Saturday 6 Jun 2026|1140",
+    "70562|Saturday 6 Jun 2026|1200",
+    "70563|Saturday 6 Jun 2026|1080",
+    "70563|Saturday 6 Jun 2026|1140",
+    "70563|Saturday 6 Jun 2026|1200",
+    "70564|Saturday 6 Jun 2026|1080",
+    "70564|Saturday 6 Jun 2026|1140",
+    "70564|Saturday 6 Jun 2026|1200"
   ],
   "last_weekly_run": "2026-05-28T19:52:19.493765+02:00",
-  "last_monitor_run": "2026-05-30T22:34:47.693686+02:00"
+  "last_monitor_run": "2026-05-31T10:25:06.457277+02:00"
 }
