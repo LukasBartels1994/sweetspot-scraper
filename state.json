@@ -5,15 +5,15 @@
     "70563|Friday 3 Jul 2026|1200",
     "70564|Friday 3 Jul 2026|1200",
     "70562|Saturday 27 Jun 2026|1140",
-    "70563|Saturday 27 Jun 2026|1080",
     "70563|Saturday 27 Jun 2026|1140",
     "70563|Saturday 27 Jun 2026|1200",
     "70564|Saturday 27 Jun 2026|1080",
     "70564|Saturday 27 Jun 2026|1140",
     "70564|Saturday 27 Jun 2026|1200",
     "70562|Sunday 28 Jun 2026|1200",
+    "70563|Sunday 28 Jun 2026|1080",
     "70564|Sunday 28 Jun 2026|1080"
   ],
   "last_weekly_run": "2026-06-25T10:46:59.527211+02:00",
-  "last_monitor_run": "2026-06-27T08:26:00.003277+02:00"
+  "last_monitor_run": "2026-06-27T11:10:44.941696+02:00"
 }
