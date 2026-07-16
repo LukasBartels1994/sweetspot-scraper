@@ -1,5 +1,5 @@
 {
-  "monitoring_active": false,
+  "monitoring_active": true,
   "seen_keys": [
     "70562|Saturday 18 Jul 2026|1080",
     "70562|Saturday 18 Jul 2026|1140",
@@ -7,11 +7,13 @@
     "70563|Saturday 18 Jul 2026|1080",
     "70563|Saturday 18 Jul 2026|1140",
     "70563|Saturday 18 Jul 2026|1200",
-    "70564|Saturday 18 Jul 2026|1080",
     "70564|Saturday 18 Jul 2026|1140",
-    "70564|Saturday 18 Jul 2026|1200"
+    "70564|Saturday 18 Jul 2026|1200",
+    "70562|Sunday 19 Jul 2026|1080",
+    "70562|Sunday 19 Jul 2026|1140",
+    "70563|Sunday 19 Jul 2026|1080",
+    "70563|Sunday 19 Jul 2026|1140",
+    "70564|Sunday 19 Jul 2026|1140"
   ],
-  "last_weekly_run": "2026-07-09T10:59:22.000748+02:00",
-  "last_monitor_run": "2026-07-12T21:38:53.124099+02:00",
-  "stopped_at": "2026-07-12T22:53:11.990680+02:00"
+  "last_weekly_run": "2026-07-16T09:50:50.227294+02:00"
 }
