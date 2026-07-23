@@ -1,23 +1,17 @@
 {
-  "monitoring_active": false,
+  "monitoring_active": true,
   "seen_keys": [
-    "70562|Friday 24 Jul 2026|1080",
-    "70562|Friday 24 Jul 2026|1140",
-    "70563|Friday 24 Jul 2026|1080",
-    "70563|Friday 24 Jul 2026|1140",
-    "70563|Friday 24 Jul 2026|1200",
-    "70564|Friday 24 Jul 2026|1200",
     "70562|Saturday 25 Jul 2026|1080",
-    "70562|Saturday 25 Jul 2026|1140",
     "70562|Saturday 25 Jul 2026|1200",
     "70563|Saturday 25 Jul 2026|1080",
     "70563|Saturday 25 Jul 2026|1140",
     "70563|Saturday 25 Jul 2026|1200",
-    "70564|Saturday 25 Jul 2026|1080",
     "70564|Saturday 25 Jul 2026|1140",
-    "70564|Saturday 25 Jul 2026|1200"
+    "70564|Saturday 25 Jul 2026|1200",
+    "70563|Sunday 26 Jul 2026|1080",
+    "70563|Sunday 26 Jul 2026|1140",
+    "70564|Sunday 26 Jul 2026|1080",
+    "70564|Sunday 26 Jul 2026|1140"
   ],
-  "last_weekly_run": "2026-07-16T09:50:50.227294+02:00",
-  "last_monitor_run": "2026-07-19T21:43:06.831586+02:00",
-  "stopped_at": "2026-07-19T22:53:28.335346+02:00"
+  "last_weekly_run": "2026-07-23T10:06:02.438399+02:00"
 }
