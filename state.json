@@ -3,15 +3,13 @@
   "seen_keys": [
     "70562|Saturday 25 Jul 2026|1080",
     "70562|Saturday 25 Jul 2026|1200",
-    "70563|Saturday 25 Jul 2026|1080",
     "70563|Saturday 25 Jul 2026|1140",
     "70563|Saturday 25 Jul 2026|1200",
-    "70564|Saturday 25 Jul 2026|1140",
     "70564|Saturday 25 Jul 2026|1200",
-    "70563|Sunday 26 Jul 2026|1080",
     "70563|Sunday 26 Jul 2026|1140",
     "70564|Sunday 26 Jul 2026|1080",
     "70564|Sunday 26 Jul 2026|1140"
   ],
-  "last_weekly_run": "2026-07-23T10:06:02.438399+02:00"
+  "last_weekly_run": "2026-07-23T10:06:02.438399+02:00",
+  "last_monitor_run": "2026-07-24T04:57:21.440595+02:00"
 }
