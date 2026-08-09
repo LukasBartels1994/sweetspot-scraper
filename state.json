@@ -4,7 +4,6 @@
     "70562|Saturday 15 Aug 2026|1080",
     "70562|Saturday 15 Aug 2026|1140",
     "70562|Saturday 15 Aug 2026|1200",
-    "70563|Saturday 15 Aug 2026|1080",
     "70563|Saturday 15 Aug 2026|1140",
     "70563|Saturday 15 Aug 2026|1200",
     "70564|Saturday 15 Aug 2026|1080",
@@ -12,5 +11,5 @@
     "70564|Saturday 15 Aug 2026|1200"
   ],
   "last_weekly_run": "2026-08-06T10:10:29.348863+02:00",
-  "last_monitor_run": "2026-08-09T11:40:24.575923+02:00"
+  "last_monitor_run": "2026-08-09T12:35:38.662228+02:00"
 }
