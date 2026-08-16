@@ -2,8 +2,6 @@
   "monitoring_active": true,
   "seen_keys": [
     "70562|Saturday 22 Aug 2026|1080",
-    "70562|Saturday 22 Aug 2026|1140",
-    "70562|Saturday 22 Aug 2026|1200",
     "70563|Saturday 22 Aug 2026|1080",
     "70563|Saturday 22 Aug 2026|1140",
     "70563|Saturday 22 Aug 2026|1200",
@@ -12,5 +10,5 @@
     "70564|Saturday 22 Aug 2026|1200"
   ],
   "last_weekly_run": "2026-08-13T09:06:41.688101+02:00",
-  "last_monitor_run": "2026-08-16T07:56:19.345352+02:00"
+  "last_monitor_run": "2026-08-16T08:46:47.435607+02:00"
 }
