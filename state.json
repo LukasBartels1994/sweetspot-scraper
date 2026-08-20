@@ -1,15 +1,12 @@
 {
-  "monitoring_active": false,
+  "monitoring_active": true,
   "seen_keys": [
     "70562|Saturday 22 Aug 2026|1080",
+    "70562|Saturday 22 Aug 2026|1140",
     "70563|Saturday 22 Aug 2026|1080",
-    "70563|Saturday 22 Aug 2026|1140",
-    "70563|Saturday 22 Aug 2026|1200",
-    "70564|Saturday 22 Aug 2026|1080",
-    "70564|Saturday 22 Aug 2026|1140",
-    "70564|Saturday 22 Aug 2026|1200"
+    "70562|Sunday 23 Aug 2026|1080",
+    "70562|Sunday 23 Aug 2026|1140",
+    "70564|Sunday 23 Aug 2026|1140"
   ],
-  "last_weekly_run": "2026-08-13T09:06:41.688101+02:00",
-  "last_monitor_run": "2026-08-16T21:44:16.198483+02:00",
-  "stopped_at": "2026-08-16T22:24:38.930251+02:00"
+  "last_weekly_run": "2026-08-20T08:22:21.659046+02:00"
 }
