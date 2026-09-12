@@ -3,9 +3,15 @@
   "seen_keys": [
     "70562|Friday 18 Sep 2026|1140",
     "70563|Friday 18 Sep 2026|1140",
+    "70562|Saturday 19 Sep 2026|1080",
+    "70562|Saturday 19 Sep 2026|1140",
+    "70563|Saturday 19 Sep 2026|1080",
+    "70563|Saturday 19 Sep 2026|1140",
+    "70564|Saturday 19 Sep 2026|1140",
+    "70564|Saturday 19 Sep 2026|1200",
     "70562|Sunday 13 Sep 2026|1140",
     "70563|Sunday 13 Sep 2026|1140"
   ],
   "last_weekly_run": "2026-09-10T12:08:18.417984+02:00",
-  "last_monitor_run": "2026-09-12T22:01:49.201992+02:00"
+  "last_monitor_run": "2026-09-13T00:26:22.183623+02:00"
 }
