@@ -1,7 +1,5 @@
 {
-  "monitoring_active": false,
+  "monitoring_active": true,
   "seen_keys": [],
-  "last_weekly_run": "2026-10-15T12:26:39.005568+02:00",
-  "last_monitor_run": "2026-10-18T21:15:42.602032+02:00",
-  "stopped_at": "2026-10-19T00:17:04.034228+02:00"
+  "last_weekly_run": "2026-10-22T12:44:24.289094+02:00"
 }
